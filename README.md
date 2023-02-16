@@ -3,9 +3,6 @@
 [<img align="right" alt="GIF" width="480" height="300" src="./content/images/coder.png" >][github]
 
 ## I'm a Software Engineer
-
-- ✍ You can find my projects [here][portfolio]
-- 🔭 I’m currently working at [Creative IT India][company]
 - 💪 Specializing in .Net, C# and Javascript
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Web Technology
@@ -96,3 +93,6 @@ I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am spe
 [resume]: https://github.com/ganesh-tyjo/ganesh-tyjo/blob/master/content/documents/Resume_GaneshShinde.pdf
 [visitors]: https://visitor-badge.glitch.me/badge?page_id=ganesh-tyjo.ganesh-tyjo
 -->
+[portfolio]: https://tokyo-site.netlify.app/
+[linkedin]: https://www.linkedin.com/in/jack-lee-2700a9166/
+[github]: https://github.com/jacklee137
