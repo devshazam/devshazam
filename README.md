@@ -3,20 +3,18 @@
 [<img align="right" alt="GIF" width="480" height="300" src="./content/images/coder.png" >][github]
 
 ## I'm a Software Engineer
-- 💪 Specializing in .Net, C# and Javascript
+- 💪 Specializing in Javascript
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Web Technology
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play Football and 8-Ball pool
 
-<!-- ### About:
-I am Ganesh Shinde, Software Engineer graduated from Mumbai University. I am specializing in .Net, C# and Javascript. Always learning new things in web technology space and love to integrate these into projects. -->
 
 ### Connect with me:
 
-[<img align="left" alt="Ganesh's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="Ganesh's Linkedin" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ganesh's Github" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/github.svg" />][github]
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" alt="Linkedin" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Github" width="22px" src="https://unpkg.com/simple-icons@5.1.0/icons/github.svg" />][github]
 
 
 <br />
