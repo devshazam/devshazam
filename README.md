@@ -2,8 +2,8 @@
 
 [<img align="right" alt="GIF" width="480" height="300" src="./content/images/coder.png" >][github]
 
-## I'm a Software Engineer
-- 💪 Specializing in Javascript
+## I'm a SEO specialist
+- 💪 Specializing in Key Collector
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Web Technology
 - 😄 Pronouns: He/His
