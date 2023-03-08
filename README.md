@@ -94,3 +94,8 @@
 [portfolio]: https://tokyo-site.netlify.app/
 [linkedin]: https://www.linkedin.com/in/jack-lee-2700a9166/
 [github]: https://github.com/jacklee137
+
+
+https://tpverstak.ru/gulp/
+https://code.mu/ru/
+https://www.w3schools.com/
