@@ -2,7 +2,7 @@
 
 [<img align="right" alt="GIF" width="480" height="300" src="./content/images/coder.png" >][github]
 
-## I'm a SEO specialist
+## I'm a web developer
 - 💪 Specializing in Key Collector
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Web Technology
@@ -95,7 +95,3 @@
 [linkedin]: https://www.linkedin.com/in/jack-lee-2700a9166/
 [github]: https://github.com/jacklee137
 
-
-https://tpverstak.ru/gulp/
-https://code.mu/ru/
-https://www.w3schools.com/
