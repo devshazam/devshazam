@@ -2,17 +2,17 @@
 
 <img align="right" alt="GIF" width="480" height="300" src="./content/images/images.jpeg" >
 
-## I'm a backend js developer
-- 💪 Specializing in node.js, exspress.js, 
-- 🌱 I’m currently learning 
-- 💬 Ask me about Web Technology
-- 😄 Pronouns: He/His
+## I'm a backend-Node developer
+- 💪 Specializing in exspress.js, postgreSQL!
+- 🌱 I’m currently learning React!
+- 💬 Ask me about Web Technology!?
 - ⚡ Fun fact: I play DOTA 2
 
 
 ### Connect with me:
 
 - jack.lee137@outlook.com
+- w748159@gmail.com
 
 <br />
 
