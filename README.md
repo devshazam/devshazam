@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" width="480" height="300" src="./content/images/images.jpeg" >
 
 ## I'm a backend-Node developer
-- 💪 Specializing in exspress.js, postgreSQL!
+- 💪 Specializing in PERN = PostgreSQL + Express + React + Node;
 - 🌱 I’m currently learning React!
 - 💬 Ask me about Web Technology!?
 - ⚡ Fun fact: I play DOTA 2
