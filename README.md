@@ -11,8 +11,7 @@
 
 ### Connect with me:
 
-- Whatsapp: +7 (995) 622-14-75
-- Telegramm: +7 (995) 622-14-75
+- Whatsapp, Telegramm: +7 (995) 622-14-75;
 
 
 
