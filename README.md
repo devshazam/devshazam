@@ -11,8 +11,7 @@
 
 ### Connect with me:
 
-- jack.lee137@outlook.com
-- w748159@gmail.com
+- +7 (995) 622-14-75
 
 <br />
 
