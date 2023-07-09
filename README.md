@@ -11,11 +11,10 @@
 
 ### Connect with me:
 
-- +7 (995) 622-14-75
+- Whatsapp: +7 (995) 622-14-75
+- Telegramm: +7 (995) 622-14-75
 
-<br />
 
-### Portfolio:
 
 
 
