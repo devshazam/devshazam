@@ -2,16 +2,20 @@
 
 <img align="right" alt="GIF" width="480" height="300" src="./content/images/images.jpeg" >
 
-## I'm a backend-Node developer
-- 💪 Specializing in PERN = PostgreSQL + Express + React + Node;
-- 🌱 I’m currently learning React!
+## I'm a MERN stack developer
+- 💪 Specializing in:
+  - MERN = MongoDB + Express + React + Node;
+  - PERN = PostgreSQL + Express + React + Node;
 - 💬 Ask me about Web Technology!?
 - ⚡ Fun fact: I play DOTA 2
 
 
 ### Connect with me:
 
-- Whatsapp, Telegramm: +7 (995) 622-14-75;
+- x1233940@gmail.com
+- https://www.codewars.com/users/Jack-React-Node
+- https://www.linkedin.com/in/jack-lee-2700a9166/
+- https://github.com/jacklee137
 
 
 
