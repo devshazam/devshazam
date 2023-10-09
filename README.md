@@ -3,12 +3,14 @@
 
 <img align="right" alt="GIF" width="480" height="300" src="./content/images/images.jpeg" >
 
-## I'm a MERN stack developer
-- 💪 Specializing in:
+## I'm a MERN (PERN) stack developer
+- Specializing in:
   - MERN = MongoDB + Express + React + Node;
-  - PERN = PostgreSQL + Express + React + Node;
-- 💬 Ask me about Web Technology!?
-- ⚡ Fun fact: I play DOTA 2
+    - MongoDB:
+    - PostgreSQL: transactions, assosiations, useEffects
+    - REACT:
+    - Node:
+- Fun fact: I play DOTA 2
 
 
 ### Connect with me:
