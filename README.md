@@ -9,7 +9,7 @@
     - MongoDB: transactions, assosiations, useEffects
     - REACT:
     - Node:
-- Fun fact: I play DOTA 2
+- Fun fact: I play DOTA 2 
 
 ### Connect with me:
 
