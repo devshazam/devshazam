@@ -12,11 +12,7 @@
 - Fun fact: I play DOTA 2 
 
 ### Connect with me:
-
 - 9956221@gmail.com
-- https://www.codewars.com/users/Jack-React-Node
-- https://www.linkedin.com/in/jack-lee-2700a9166/
-- https://www.youtube.com/channel/UC9m4dP2OeDfm3Vu4UeVmzLw
 
 
 
