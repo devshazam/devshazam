@@ -1,4 +1,4 @@
-# I'm PERN stack DevOps developer and I'm strong like SHAZAM⚡
+# I'm FUll-stack_DevOps_developer and I'm strong like SHAZAM⚡
 
 <img align="right" alt="GIF" width="480" height="300" style="border-radius: 5px" src="./content/images/images.png" >
 
