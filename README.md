@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" width="480" height="300" src="./content/images/images.jpeg" >
 
-### My name is Jack Lee. I have been doing web development for more than 10 years, and at the moment I am most interested in PERN-stack development!
+### My name is Jack Lee. I speak Ukrainian (60%), Russian (80%), English (50%), Spanish (1%) languages. I have been doing web development for more than 10 years, and at the moment I am most interested in PERN-stack development!
 
 
 
