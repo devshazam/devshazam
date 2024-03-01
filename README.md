@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack Lee - FUll-stack_developer and I'm strong like SHAZAM⚡</h1>
-### My name is Jack Lee. I have been doing web development for more than 10 years, and at the moment I am most interested in PERN-stack development!
-### Цель обучения - не знания, а решение практических, конкретных задач - иначе мотивация иссякнет!
 
 # 💫 About Me:
 🌱 I’m currently learning ICP Development<br>📝 I regularly write articles on https://medium.com/@mertenercan<br>📫 How to reach me mertenercan@gmail.com<br>⚡ And also I love cats. A lot.
-
 
 ## 🌐 Socials:
 [![GitHub](https://img.icons8.com/ios-filled/50/github.png)](https://github.com/shazam-dev)
