@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jack Lee (9956221@gmail.com) - FUll-stack_developer and I'm strong like SHAZAM⚡</h1>
+<h1 align="center">Hi, I'm Jack Lee - Full_Stack_Developer. I'm strong like SHAZAM⚡</h1>
+<h2 align="center">Email: 9956221@gmail.com</h2>
 
 # 📊 GitHub Stats:
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=shazam-dev&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=shazam-dev&theme=default&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=shazam-dev&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shazam-dev&theme=default&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shazam-dev&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Tech Stack:
