@@ -17,4 +17,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">NEW Languages and Tools:</h3>
-- zod - valibot - uuid - pbe/react-yandex-maps - ant-design - tanstack/react-query - vercel/postgres - b64-to-blob - react-image-file-resizer - swr - 
+- zod - valibot - uuid - pbe/react-yandex-maps - ant-design - tanstack/react-query - vercel/postgres - b64-to-blob - react-image-file-resizer - swr - next-auth-v5 - nodemailer
