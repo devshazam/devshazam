@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Full_Stack_Developer, strong like SHAZAM ⚡⚡⚡</h1>
-<h3 align="center">A passionate next.js developer/h3>
+<h3 align="center">A passionate next.js developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
