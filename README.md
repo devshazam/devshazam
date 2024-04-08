@@ -1,15 +1,9 @@
 <h1 align="center">Hi, I'm Full_Stack_Developer, strong like SHAZAM ⚡⚡⚡</h1>
 <h3 align="center">A passionate Full Stack Developer, JSLover</h3>
 
--   🌱 I’m currently learning everything
-
 -   👨‍💻 All of my projects are available at [https://github.com/shazam-dev](https://github.com/shazam-dev)
 
--   💬 Ask me about **reactJs, redux, next.js, js vanilla**
-
--   📫 How to reach me **9956221@gmail.com**
-
--   ⚡ Fun fact **I love coffe**
+-   💬 Ask me about **next.js**
 
 <h3 align="left">Languages and Tools:</h3>
 
