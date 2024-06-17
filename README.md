@@ -6,9 +6,9 @@
 # 💎 Portfolio (latest, best):
 - <a href="https://kopi34.ru" target="_blank">kopi34.ru</a> (Status: Web-store; Stack: react, postgreSQl, prisma);
 - <a href="https://seo-cy.ru" target="_blank">seo-cy.ru</a> (Status: Simple; Stack: nextjs static);
-- <a href="https://rus1transfer.ru" target="_blank">rus1transfer.ru</a> (Status: Simple; Stack: nextjs static);
+- <a href="https://rus1transfer.ru" target="_blank">rus1transfer.ru</a> (Status: Simple; Stack: react);
 - <a href="https://davse.ru" target="_blank">davse.ru</a> (Status: App; Stack: nextjs, prisma);
-- <a href="https://legenda-dom.ru" target="_blank">legenda-dom.ru</a> (Status: Simple; Stack: react, redux;
+- <a href="https://legenda-dom.ru" target="_blank">legenda-dom.ru</a> (Status: Simple; Stack: react, redux);
 - <a href="https://uniformaonline.ru" target="_blank">uniformaonline.ru</a> (Status: Web-store; Stack: react, postgreSQl, prisma);
 - <a href="https://dostupsreda.ru" target="_blank">dostupsreda.ru</a> (Status: Web-store; Stack: react, redux);
 - <a href="https://split34service.ru" target="_blank">split34service.ru</a> (Status: Simple; Stack: nextjs static);
