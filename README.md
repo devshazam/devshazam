@@ -20,9 +20,9 @@
 
 
 # 💎 Portfolio (latest, best):
-- <a href="https://t.me/kopi34_bot" target="_blank">@kopi34_bot</a> (public_service_telebot)
+- <a href="https://t.me/kopi34_bot" target="_blank">@kopi34_bot</a> (public_service_telebot: django, nextjs)
 - <a href="https://luristy.ru/" target="_blank">luristy.ru</a> (Status: Simple; Stack: nextjs);
-- <a href="https://kopi34.ru" target="_blank">kopi34.ru</a> (Status: Web-store; Stack: react, postgreSQl, prisma);
+- <a href="https://kopi34.ru" target="_blank">kopi34.ru</a> (Status: Web-store; Stack: react, postgreSQl, prisma, strapi);
 - <a href="https://seo-cy.ru" target="_blank">seo-cy.ru</a> (Status: Simple; Stack: nextjs static);
 - <a href="https://rus1transfer.ru" target="_blank">rus1transfer.ru</a> (Status: Simple; Stack: react);
 - <a href="https://davse.ru" target="_blank">davse.ru</a> (Status: App; Stack: nextjs, prisma);
