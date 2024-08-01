@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm NextJs, Django, Python developer!</h1>
-
-[![](https://visitcount.itsvg.in/api?id=devshazam&icon=0&color=0)](https://visitcount.itsvg.in)
+<h1>Hi, I'm NextJs, Django, Python developer!</h1>
 
 ### ☢️ UseFull_FRONTEND_IUse:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) 
@@ -22,7 +20,7 @@
 
 
 # 💎 Portfolio (latest, best):
-- @kopi34_bot (public_service_telebot)
+- <a href="https://t.me/kopi34_bot" target="_blank">@kopi34_bot</a> (public_service_telebot)
 - <a href="https://luristy.ru/" target="_blank">luristy.ru</a> (Status: Simple; Stack: nextjs);
 - <a href="https://kopi34.ru" target="_blank">kopi34.ru</a> (Status: Web-store; Stack: react, postgreSQl, prisma);
 - <a href="https://seo-cy.ru" target="_blank">seo-cy.ru</a> (Status: Simple; Stack: nextjs static);
