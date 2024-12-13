@@ -26,6 +26,8 @@
 ### ⚠️ Fun:
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
+### Low commercial efficiency (voting results)
+
 # 💎 Portfolio (best, latest):
 - ⚡<a href="https://taxi-cities.ru/" target="_blank">taxi-cities.ru</a> (SEO-Lending: nextjs14);
 - ⚡<a href="https://t.me/kopi34_bot" target="_blank">@kopi34_bot</a> (telegram-bot: django, nextjs)
