@@ -31,7 +31,7 @@
 ### ⚠️ Learning:
 [![My Skills](https://skillicons.dev/icons?i=nestjs,nuxtjs,vue,vite,)](https://skillicons.dev)
 
-### 
+### I used it once:
 [![My Skills](https://skillicons.dev/icons?i=arduino,gulp,jquery,laravel,less,mysql,pug,raspberrypi)](https://skillicons.dev)
 # 💎 Portfolio (best, latest):
 - ⚡<a href="https://kopi34.ru" target="_blank">kopi34.ru</a> (Web-store_Calcuator: react, postgreSQl, prisma);
