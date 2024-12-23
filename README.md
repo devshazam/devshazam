@@ -1,4 +1,4 @@
-<h1>I'm⚡SHAZAM⚡dev</h1>
+<h1>I'm⚡devShazam⚡dev</h1>
 
 ![CodeWar](https://www.codewars.com/users/devshazam/badges/large)
 
