@@ -38,7 +38,6 @@
 - ⚡<a href="https://t.me/kopi34_bot" target="_blank">@kopi34_bot</a> (telegram-bot: django, nextjs)
 - <a href="https://luristy.ru/" target="_blank">luristy.ru</a> (Lending: nextjs);
 
-- <a href="https://seo-cy.ru" target="_blank">seo-cy.ru</a> (Lending: nextjs static);
 - <a href="https://rus1transfer.ru" target="_blank">rus1transfer.ru</a> (Lending: Stack: react);
 - ⚡<a href="https://davse.ru" target="_blank">davse.ru</a> (App: nextjs, prisma);
 - <a href="https://legenda-dom.ru" target="_blank">legenda-dom.ru</a> (Lending: Stack: react, redux);
