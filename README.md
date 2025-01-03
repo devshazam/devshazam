@@ -21,9 +21,8 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="icon" width="64" height="64" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="icon" width="64" height="64" />
   </div>
-(https://skillicons.dev/icons?i=js,bootstrap,express,figma,github,postgres,prisma,redis,redux,sass,sqlite,tailwind,ts,ubuntu,vercel,webpack)](https://skillicons.dev)
-  
-### I used it once:
+ 
+### I used it:
 [![My Skills](https://skillicons.dev/icons?i=figma,github,cloudflare,aws,py,flask,fastapi,django,firebase,gcp,supabase,arduino,laravel,raspberrypi,css,cypress,debian,electron,jquery,linux,pug,tauri,)](https://skillicons.dev)
 
 ### ⚠️ Learning:
