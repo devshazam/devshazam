@@ -4,7 +4,7 @@
 
 
 ## 🥷 💪 🏋️:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,webpack,redux,sentry,vscode,babel,git,bootstrap,nodejs,express,npm,postgres,prisma,redis,sass,tailwind,materialui,ubuntu,mongodb,vercel,postman,powershell,sublime,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,webpack,redux,sentry,vscode,babel,git,bootstrap,nodejs,express,npm,postgres,prisma,redis,sass,tailwind,materialui,ubuntu,mongodb,vercel,postman,powershell,sublime,figma,github)](https://skillicons.dev)
 
 
 ## ♾️ DevOps: 
@@ -23,7 +23,7 @@
   </div>
  
 ## 🚧I used:
-[![My Skills](https://skillicons.dev/icons?i=figma,github,cloudflare,aws,py,flask,fastapi,django,firebase,gcp,supabase,arduino,laravel,raspberrypi,css,cypress,debian,electron,jquery,linux,pug,tauri,selenium,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,aws,py,flask,fastapi,django,firebase,gcp,supabase,arduino,laravel,raspberrypi,css,cypress,debian,electron,jquery,linux,pug,tauri,selenium,sqlite)](https://skillicons.dev)
 
 ### ⚠️ Learning:
 [![My Skills](https://skillicons.dev/icons?i=nestjs,nuxtjs,vue,vite)](https://skillicons.dev)
