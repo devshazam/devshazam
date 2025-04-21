@@ -26,9 +26,16 @@
 [![My Skills](https://skillicons.dev/icons?i=py,flask,fastapi,django,arduino,laravel,raspberrypi,cypress,electron,jquery,tauri,selenium,nuxtjs,vue,vite)](https://skillicons.dev)
 
 # 💎 Portfolio (best, latest):
+<ul>
+			<li><a href="https://www.codewars.com/users/devshazam" >Тестирование CodeWar</a></li>
+			<li><a href="https://github.com/devshazam/Shop-calculator_kopi34.ru_v3.2025" >Лучший, последний FullStack проект</a></li>
+			<li><a href="https://medium.com/@devshazam" >Статьи на Медиум</a></li>
+			<li><a href="https://github.com/devshazam/Starter-Node-Express-TypeScript-with-PostgreSQL_Prisma-OR-Sequalize-OR-MongoDB_Mongoose_v12.2025" >Стартер для Node сервера вариативный</a></li>
+			<li><a href="https://github.com/devshazam/Best-Dev-Practices_v17.2.2025" >Наработанные практики</a></li>
+		</ul>
 - ⚡<a href="https://kopi34.ru" target="_blank">kopi34.ru</a> (Web-store_Calcuator: react, postgreSQl, prisma);
 - ⚡<a href="https://taxi-cities.ru/" target="_blank">taxi-cities.ru</a> (SEO-Lending: nextjs14);
-- ⚡<a href="https://t.me/kopi34_bot" target="_blank">@kopi34_bot</a> (telegram-bot: django, nextjs)
+- <a href="https://t.me/kopi34_bot" target="_blank">@kopi34_bot</a> (telegram-bot: django, nextjs)
 - <a href="https://luristy.ru/" target="_blank">luristy.ru</a> (Lending: nextjs);
 
 - <a href="https://rus1transfer.ru" target="_blank">rus1transfer.ru</a> (Lending: Stack: react);
