@@ -33,6 +33,7 @@
 			<li><a href="https://github.com/devshazam/Starter-Node-Express-TypeScript-with-PostgreSQL_Prisma-OR-Sequalize-OR-MongoDB_Mongoose_v12.2025" >Стартер для Node сервера вариативный</a></li>
 			<li><a href="https://github.com/devshazam/Best-Dev-Practices_v17.2.2025" >Наработанные практики</a></li>
 		</ul>
+  
 - ⚡<a href="https://kopi34.ru" target="_blank">kopi34.ru</a> (Web-store_Calcuator: react, postgreSQl, prisma);
 - ⚡<a href="https://taxi-cities.ru/" target="_blank">taxi-cities.ru</a> (SEO-Lending: nextjs14);
 - <a href="https://t.me/kopi34_bot" target="_blank">@kopi34_bot</a> (telegram-bot: django, nextjs)
@@ -41,12 +42,7 @@
 - <a href="https://rus1transfer.ru" target="_blank">rus1transfer.ru</a> (Lending: Stack: react);
 - ⚡<a href="https://davse.ru" target="_blank">davse.ru</a> (App: nextjs, prisma);
 - <a href="https://legenda-dom.ru" target="_blank">legenda-dom.ru</a> (Lending: Stack: react, redux);
-- ...
-- 6 real cool web-stores:
-- <a href="https://uniformaonline.ru" target="_blank">uniformaonline.ru</a> (Web-store: react, postgreSQl, prisma);
-- <a href="https://dostupsreda.ru" target="_blank">dostupsreda.ru</a> (Web-store: react, redux);
 - <a href="https://re.kufar.by" target="_blank">re.kufar.by</a> (Web-store: react, mongoDB, sequalize, Elasticsearch);
-- <a href="https://patterneasy.com" target="_blank">patterneasy.com</a> (Web-store-simple);
 - <a href="https://flacon-magazine.com" target="_blank">flacon-magazine.com</a> (Web-store-simple);
 - ...
 - More then 50 other sites!
