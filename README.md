@@ -1,39 +1,13 @@
 <h1>I'm⚡devShazam⚡dev</h1>
 
 ![CodeWar](https://www.codewars.com/users/devshazam/badges/large)
+<a href="https://medium.com/@devshazam" >Статьи на Медиум</a>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,webpack,redux,sentry,vscode,babel,git,bootstrap,nodejs,express,npm,postgres,prisma,redis,sass,tailwind,materialui,ubuntu,mongodb,sqlite,vercel,postman,powershell,sublime,figma,github,linux,pug,debian,css,firebase,gcp,supabase,cloudflare,aws,docker,nestjspy,flask,fastapi,django,arduino,laravel,raspberrypi,cypress,electron,jquery,tauri,selenium,nuxtjs,vue,vite)](https://skillicons.dev)
 
 
-## 🥷 💪 🏋️:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,webpack,redux,sentry,vscode,babel,git,bootstrap,nodejs,express,npm,postgres,prisma,redis,sass,tailwind,materialui,ubuntu,mongodb,sqlite,vercel,postman,powershell,sublime,figma,github,linux,pug,debian,css,firebase,gcp,supabase,cloudflare,aws,docker,nestjs)](https://skillicons.dev)
-
-
-## ♾️ DevOps: 
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="64" height="64" />
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="64" height="64" />
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="64" height="64" />
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="64" height="64" />
-    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="64" height="64" />
-    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="64" height="64" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sentry.svg" alt="icon" width="64" height="64" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="icon" width="64" height="64" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" alt="icon" width="64" height="64" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="icon" width="64" height="64" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="icon" width="64" height="64" />
-  </div>
- 
-### ⚠️ Learning:
-[![My Skills](https://skillicons.dev/icons?i=py,flask,fastapi,django,arduino,laravel,raspberrypi,cypress,electron,jquery,tauri,selenium,nuxtjs,vue,vite)](https://skillicons.dev)
-
-# 💎 Portfolio (best, latest):
-<ul>
-			<li><a href="https://www.codewars.com/users/devshazam" >Тестирование CodeWar</a></li>
-			<li><a href="https://github.com/devshazam/Shop-calculator_kopi34.ru_v3.2025" >Лучший, последний FullStack проект</a></li>
-			<li><a href="https://medium.com/@devshazam" >Статьи на Медиум</a></li>
-			<li><a href="https://github.com/devshazam/Starter-Node-Express-TypeScript-with-PostgreSQL_Prisma-OR-Sequalize-OR-MongoDB_Mongoose_v12.2025" >Стартер для Node сервера вариативный</a></li>
-			<li><a href="https://github.com/devshazam/Best-Dev-Practices_v17.2.2025" >Наработанные практики</a></li>
-		</ul>
-  
+# Portfolio (best, latest):
+- Sites: www.seo-cy.ru
 - ⚡<a href="https://kopi34.ru" target="_blank">kopi34.ru</a> (Web-store_Calcuator: react, postgreSQl, prisma);
 - ⚡<a href="https://taxi-cities.ru/" target="_blank">taxi-cities.ru</a> (SEO-Lending: nextjs14);
 - <a href="https://t.me/kopi34_bot" target="_blank">@kopi34_bot</a> (telegram-bot: django, nextjs)
