@@ -6,8 +6,8 @@
 
 
 ## Portfolio (best, latest):
-- <b>Sites:</b> www.seo-cy.ru, www.taxi-cities.ru, www.luristy.ru, www.rus1transfer.ru, www.taxi-cities.ru, www.pansionatobereg.ru, www.split34service.ru, www.butik-hotel-1i3.ru, www.vita-34.ru
-- <b>Магазины:</b> www.kopi34.ru, www.re.kufar.by, www.legenda-dom.ru
+- <b>Sites:</b> www.seo-cy.ru, www.taxi-cities.ru, www.luristy.ru, www.rus1transfer.ru, www.taxi-cities.ru, www.pansionatobereg.ru, www.split34service.ru, www.butik-hotel-1i3.ru, www.vita-34.ru, www.carpromo.ru, www.carpromo.ru, www.systematica-consulting.ru
+- <b>Магазины:</b> www.kopi34.ru, www.re.kufar.by, www.legenda-dom.ru, kodeks.ru, www.videoforme.ru, www.restecmedia.ru, www.kaychyk.ru, www.vacuum-trade.ru, www.rynok-apk.ru, www.m-core.pro, www.volsu.ru
 - <b>Приложения:</b> www.davse.ru, www.flacon-magazine.com, @kopibot, 
 
 
