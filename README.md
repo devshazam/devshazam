@@ -1,4 +1,10 @@
-<h1>I'm⚡devShazam⚡dev</h1>
+<h1>I'm⚡devShazam⚡</h1>
+## I can (я умею):
+- <b>Сайты (frontend):</b> создаю сайты магазины, калькуляторы, карты, квизы и тд.
+- <b>Серверные приложения (backend):</b> создаю серверы на NodeJs, Django, flask, приложения любой сложности
+- <b>Расширения для браузеров:<b> создаю любые расширения для браузеров
+- <b>Приложения:<b> создаю приложения для Android и IOS на ReactNative
+- <b>Серверы и БД:</b> разварачиваю все виды серверов на Ubuntu, Debian. Работаю с такими БД как: PostgreSQL, MongoDB, MySQL
 
 ![CodeWar](https://www.codewars.com/users/devshazam/badges/large)
 
