@@ -10,7 +10,6 @@
 - <b>Серверы и БД:</b> разварачиваю все виды серверов на Ubuntu, Debian. Работаю с такими БД как: PostgreSQL, MongoDB, MySQL
   
 
----
 [![](https://visitcount.itsvg.in/api?id=devshazam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- https://gprm.itsvg.in -->
